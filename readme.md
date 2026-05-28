@@ -46,7 +46,7 @@ AUTHENTICATED ✓
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/medical-deepfake-pipeline.git
+git clone https://github.com/Akash007AD/Medical-Deepfake-Analysis.git
 cd medical-deepfake-pipeline
 
 python -m venv venv
